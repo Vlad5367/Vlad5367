@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Конспект 1",
+        "subtitle": "Подзаголовок",
+        "description": "Введите описание",
+        "image_path": "C:/Users/Комп/PycharmProjects/Study organizer ver. 1.1/work_icon.png",
+        "favorite": false,
+        "date_created": "2024-06-11 10:31"
+    }
+]
